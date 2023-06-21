@@ -16,7 +16,7 @@ Welcome to the cove of my codes! You can pronounce my name like the fruit "acai,
 
 Feel free to browse through my repositories and explore the projects I've been working on. Let's collaborate and make a difference in the world of genomics and data science!
 
-How to reach me? [your-email@azaid.ord@gmail.com](mailto:azaid.ord@gmail.com)
+How to reach me? [azaid.ord@gmail.com](mailto:azaid.ord@gmail.com)
 
 Thank you for visiting! ✨
 
