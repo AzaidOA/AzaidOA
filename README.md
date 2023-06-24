@@ -1,4 +1,4 @@
-# Hola, I'm Azaid! 👩🏽‍🔬🧑🏽‍🔬
+# Hola, I'm Azaid! 🧑🏽‍🔬
 
 Welcome to the cove of my codes! You can pronounce my name like the fruit "acai," but with a "d" at the end. I recently graduated from the undergraduate program in Genomics Sciences at the National Autonomous University of Mexico. With a strong passion for biology and technology, I have gained valuable hands-on experience through various research projects in the fields of immunology and infectious diseases.
 
