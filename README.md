@@ -8,7 +8,7 @@ Welcome to the cove of my codes! You can pronounce my name like the fruit "acai,
 
 ## Interests and Hobbies
 
-🌆 During my free time, I love exploring the city while indulging in expensive chai lattes. It's a great way to relax and enjoy the vibrant atmosphere around me. Family is important to me, and I cherish spending quality time with my loved ones and pets.
+🌆 During my free time, I love exploring the city. It's a great way to relax and enjoy the vibrant atmosphere around me. Family is important to me, and I cherish spending quality time with my loved ones and pets.
 
 ## Future Goals
 
